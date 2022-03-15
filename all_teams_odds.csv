@@ -1,18 +1,18 @@
-"Winner","University","odds","Ranking","Team","Mascot"
-"Alabama","Alabama",1.2,23,"Alabama_CrimsonTide","CrimsonTide"
+"Winner","University","odds","name","Team","Mascot"
+"Alabama","Alabama",1.2,"Team1","Alabama_CrimsonTide","CrimsonTide"
 "Albany","Albany",0.2,NA,NA,NA
-"Arizona","Arizona",1.79310344827586,2,"Arizona_Wildcats","Wildcats"
+"Arizona","Arizona",1.79310344827586,"Team1","Arizona_Wildcats","Wildcats"
 "Arizona State","ArizonaState",1,NA,NA,NA
-"Arkansas","Arkansas",1.70588235294118,24,"Arkansas_Razorbacks","Razorbacks"
+"Arkansas","Arkansas",1.70588235294118,"Team1","Arkansas_Razorbacks","Razorbacks"
 "Arkansas-Little Rock","Arkansas-LittleRock",0.4,NA,NA,NA
 "Arkansas-Pine Bluff","Arkansas-PineBluff",1,NA,NA,NA
-"Auburn","Auburn",1.71428571428571,10,"Auburn_Tigers","Tigers"
+"Auburn","Auburn",1.71428571428571,"Team1","Auburn_Tigers","Tigers"
 "Austin Peay","AustinPeay",0.2,NA,NA,NA
 "Ball State","BallState",0.5,NA,NA,NA
-"Baylor","Baylor",1.14285714285714,6,"Baylor_Bears","Bears"
+"Baylor","Baylor",1.14285714285714,"Team1","Baylor_Bears","Bears"
 "Boston College","BostonCollege",1.18181818181818,NA,NA,NA
 "Bradley","Bradley",0.75,NA,NA,NA
-"Brigham Young","BrighamYoung",0.388888888888889,49,"BrighamYoung_Cougars","Cougars"
+"Brigham Young","BrighamYoung",0.388888888888889,NA,NA,NA
 "Bucknell","Bucknell",0.333333333333333,NA,NA,NA
 "Butler","Butler",1.46153846153846,NA,NA,NA
 "Cal Poly","CalPoly",1,NA,NA,NA
@@ -21,22 +21,22 @@
 "Central Michigan","CentralMichigan",0.5,NA,NA,NA
 "Charleston, South Carolina","Charleston,SouthCarolina",0.25,NA,NA,NA
 "Charlotte","Charlotte",0.4,NA,NA,NA
-"Chattanooga","Chattanooga",0.25,NA,NA,NA
+"Chattanooga","Chattanooga",0.25,"Team2","Chattanooga_Mocs","Mocs"
 "Cincinnati","Cincinnati",1.2,NA,NA,NA
 "Clemson","Clemson",0.6,NA,NA,NA
 "Cleveland State","ClevelandState",1.5,NA,NA,NA
 "Colorado","Colorado",0.333333333333333,NA,NA,NA
-"Colorado State","ColoradoState",0.4,30,"ColoradoState_Rams","Rams"
-"Connecticut","Connecticut",3.4375,16,"Connecticut_Huskies","Huskies"
+"Colorado State","ColoradoState",0.4,"Team1","ColoradoState_Rams","Rams"
+"Connecticut","Connecticut",3.4375,"Team1","Connecticut_Huskies","Huskies"
 "Coppin State","CoppinState",0.25,NA,NA,NA
 "Cornell","Cornell",0.5,NA,NA,NA
-"Creighton","Creighton",0.5,NA,NA,NA
-"Davidson","Davidson",0.333333333333333,46,"Davidson_Wildcats","Wildcats"
-"Dayton","Dayton",0.777777777777778,47,"Dayton_Flyers","Flyers"
+"Creighton","Creighton",0.5,"Team2","Creighton_Bluejays","Bluejays"
+"Davidson","Davidson",0.333333333333333,"Team2","Davidson_Wildcats","Wildcats"
+"Dayton","Dayton",0.777777777777778,NA,NA,NA
 "DePaul","DePaul",0.777777777777778,NA,NA,NA
 "Detroit","Detroit",0.666666666666667,NA,NA,NA
 "Drexel","Drexel",0.25,NA,NA,NA
-"Duke","Duke",3.46153846153846,12,"Duke_BlueDevils","BlueDevils"
+"Duke","Duke",3.46153846153846,"Team1","Duke_BlueDevils","BlueDevils"
 "East Tennessee State","EastTennesseeState",0.125,NA,NA,NA
 "Eastern Michigan","EasternMichigan",0.75,NA,NA,NA
 "Evansville","Evansville",0.25,NA,NA,NA
@@ -49,43 +49,43 @@
 "George Washington","GeorgeWashington",0.444444444444444,NA,NA,NA
 "Georgetown","Georgetown",1.57142857142857,NA,NA,NA
 "Georgia","Georgia",0.363636363636364,NA,NA,NA
-"Georgia State","GeorgiaState",0.666666666666667,NA,NA,NA
+"Georgia State","GeorgiaState",0.666666666666667,"Team2","GeorgiaState_Panthers","Panthers"
 "Georgia Tech","GeorgiaTech",1.46666666666667,NA,NA,NA
-"Gonzaga","Gonzaga",1.26315789473684,1,"Gonzaga_Bulldogs","Bulldogs"
+"Gonzaga","Gonzaga",1.26315789473684,"Team1","Gonzaga_Bulldogs","Bulldogs"
 "Green Bay","GreenBay",0.2,NA,NA,NA
 "Hampton","Hampton",0.333333333333333,NA,NA,NA
 "Harvard","Harvard",0.5,NA,NA,NA
 "Hawaii","Hawaii",0.25,NA,NA,NA
 "Holy Cross","HolyCross",0.166666666666667,NA,NA,NA
-"Illinois","Illinois",1.27272727272727,14,"Illinois_FightingIllini","FightingIllini"
+"Illinois","Illinois",1.27272727272727,"Team1","Illinois_FightingIllini","FightingIllini"
 "Illinois State","IllinoisState",0.5,NA,NA,NA
-"Indiana","Indiana",1.45833333333333,42,"Indiana_Hoosiers","Hoosiers"
+"Indiana","Indiana",1.45833333333333,"Team2","Indiana_Hoosiers","Hoosiers"
 "Indiana State","IndianaState",0.333333333333333,NA,NA,NA
-"Iowa","Iowa",0.941176470588235,19,"Iowa_Hawkeyes","Hawkeyes"
-"Iowa State","IowaState",1,35,"IowaState_Cyclones","Cyclones"
+"Iowa","Iowa",0.941176470588235,"Team1","Iowa_Hawkeyes","Hawkeyes"
+"Iowa State","IowaState",1,"Team2","IowaState_Cyclones","Cyclones"
 "James Madison","JamesMadison",0.5,NA,NA,NA
-"Kansas","Kansas",2.6551724137931,5,"Kansas_Jayhawks","Jayhawks"
+"Kansas","Kansas",2.6551724137931,"Team1","Kansas_Jayhawks","Jayhawks"
 "Kansas State","KansasState",0.833333333333333,NA,NA,NA
 "Kent State","KentState",0.8,NA,NA,NA
-"Kentucky","Kentucky",3.125,3,"Kentucky_Wildcats","Wildcats"
+"Kentucky","Kentucky",3.125,"Team1","Kentucky_Wildcats","Wildcats"
 "La Salle","LaSalle",0.8,NA,NA,NA
 "Lehigh","Lehigh",0.2,NA,NA,NA
-"Louisiana State","LouisianaState",1.06666666666667,18,"LouisianaState_Tigers","Tigers"
+"Louisiana State","LouisianaState",1.06666666666667,"Team1","LouisianaState_Tigers","Tigers"
 "Louisiana Tech","LouisianaTech",0.75,NA,NA,NA
 "Louisiana-Lafayette","Louisiana-Lafayette",0.166666666666667,NA,NA,NA
 "Louisville","Louisville",2.18181818181818,NA,NA,NA
 "Loyola Marymount","LoyolaMarymount",1.33333333333333,NA,NA,NA
 "Loyola, Illinois","Loyola,Illinois",2,NA,NA,NA
 "Manhattan","Manhattan",0.333333333333333,NA,NA,NA
-"Marquette","Marquette",1.14285714285714,34,"Marquette_GoldenEagles","GoldenEagles"
+"Marquette","Marquette",1.14285714285714,"Team2","Marquette_GoldenEagles","GoldenEagles"
 "Maryland","Maryland",1.77777777777778,NA,NA,NA
 "Massachusetts","Massachusetts",1.375,NA,NA,NA
-"Memphis","Memphis",1.5,44,"Memphis_Tigers","Tigers"
+"Memphis","Memphis",1.5,"Team2","Memphis_Tigers","Tigers"
 "Mercer","Mercer",0.5,NA,NA,NA
 "Miami, Florida","Miami,Florida",1.14285714285714,NA,NA,NA
 "Miami, Ohio","Miami,Ohio",0.428571428571429,NA,NA,NA
-"Michigan","Michigan",2.17647058823529,33,"Michigan_Wolverines","Wolverines"
-"Michigan State","MichiganState",2.12,36,"MichiganState_Spartans","Spartans"
+"Michigan","Michigan",2.17647058823529,"Team2","Michigan_Wolverines","Wolverines"
+"Michigan State","MichiganState",2.12,"Team1","MichiganState_Spartans","Spartans"
 "Middle Tennessee State","MiddleTennesseeState",0.4,NA,NA,NA
 "Milwaukee","Milwaukee",0.75,NA,NA,NA
 "Minnesota","Minnesota",1.1,NA,NA,NA
@@ -97,16 +97,16 @@
 "Montana","Montana",0.111111111111111,NA,NA,NA
 "Morehead State","MoreheadState",1,NA,NA,NA
 "Mt. St. Mary's, Maryland","Mt.St.Mary's,Maryland",0.25,NA,NA,NA
-"Murray State","MurrayState",0.230769230769231,22,"MurrayState_Racers","Racers"
+"Murray State","MurrayState",0.230769230769231,"Team1","MurrayState_Racers","Racers"
 "Navy","Navy",0.666666666666667,NA,NA,NA
 "Nevada","Nevada",0.8,NA,NA,NA
 "Nevada-Las Vegas","Nevada-LasVegas",1.71428571428571,NA,NA,NA
 "New Mexico","NewMexico",0.5,NA,NA,NA
-"New Mexico State","NewMexicoState",0.25,NA,NA,NA
+"New Mexico State","NewMexicoState",0.25,"Team2","NewMexicoState_Aggies","Aggies"
 "New Orleans","NewOrleans",0.25,NA,NA,NA
 "Niagara","Niagara",0.5,NA,NA,NA
-"Norfolk State","NorfolkState",1,NA,NA,NA
-"North Carolina","NorthCarolina",3.15384615384615,41,"NorthCarolina_TarHeels","TarHeels"
+"Norfolk State","NorfolkState",1,"Team2","NorfolkState_Spartans","Spartans"
+"North Carolina","NorthCarolina",3.15384615384615,"Team1","NorthCarolina_TarHeels","TarHeels"
 "North Carolina A&T","NorthCarolinaA&T",0.142857142857143,NA,NA,NA
 "North Carolina State","NorthCarolinaState",1.26666666666667,NA,NA,NA
 "North Carolina-Asheville","NorthCarolina-Asheville",0.5,NA,NA,NA
@@ -114,11 +114,11 @@
 "North Dakota State","NorthDakotaState",0.333333333333333,NA,NA,NA
 "Northern Iowa","NorthernIowa",0.625,NA,NA,NA
 "Northwestern State","NorthwesternState",0.666666666666667,NA,NA,NA
-"Notre Dame","NotreDame",0.941176470588235,NA,NA,NA
+"Notre Dame","NotreDame",0.941176470588235,"Team2","NotreDame_FightingIrish","FightingIrish"
 "Oakland","Oakland",0.333333333333333,NA,NA,NA
 "Ohio","Ohio",0.6,NA,NA,NA
-"Ohio State","OhioState",1.77777777777778,17,"OhioState_Buckeyes","Buckeyes"
-"Oklahoma","Oklahoma",1.45833333333333,48,"Oklahoma_Sooners","Sooners"
+"Ohio State","OhioState",1.77777777777778,"Team1","OhioState_Buckeyes","Buckeyes"
+"Oklahoma","Oklahoma",1.45833333333333,NA,NA,NA
 "Oklahoma State","OklahomaState",1.27777777777778,NA,NA,NA
 "Old Dominion","OldDominion",0.333333333333333,NA,NA,NA
 "Oregon","Oregon",1.3,NA,NA,NA
@@ -128,22 +128,22 @@
 "Pepperdine","Pepperdine",0.142857142857143,NA,NA,NA
 "Pittsburgh","Pittsburgh",1,NA,NA,NA
 "Princeton","Princeton",0.2,NA,NA,NA
-"Providence","Providence",0.8,28,"Providence_Friars","Friars"
-"Purdue","Purdue",1.1304347826087,11,"Purdue_Boilermakers","Boilermakers"
+"Providence","Providence",0.8,"Team1","Providence_Friars","Friars"
+"Purdue","Purdue",1.1304347826087,"Team1","Purdue_Boilermakers","Boilermakers"
 "Rhode Island","RhodeIsland",1.2,NA,NA,NA
-"Richmond","Richmond",0.75,NA,NA,NA
+"Richmond","Richmond",0.75,"Team2","Richmond_Spiders","Spiders"
 "Robert Morris","RobertMorris",0.166666666666667,NA,NA,NA
 "San Diego","SanDiego",0.333333333333333,NA,NA,NA
-"San Diego State","SanDiegoState",0.666666666666667,31,"SanDiegoState_Aztecs","Aztecs"
+"San Diego State","SanDiegoState",0.666666666666667,"Team1","SanDiegoState_Aztecs","Aztecs"
 "Santa Clara","SantaClara",0.5,NA,NA,NA
-"Seton Hall","SetonHall",1.5,38,"SetonHall_Pirates","Pirates"
+"Seton Hall","SetonHall",1.5,"Team1","SetonHall_Pirates","Pirates"
 "Siena","Siena",0.666666666666667,NA,NA,NA
 "South Alabama","SouthAlabama",0.166666666666667,NA,NA,NA
 "South Florida","SouthFlorida",0.666666666666667,NA,NA,NA
 "Southern","Southern",0.125,NA,NA,NA
-"Southern California","SouthernCalifornia",0.636363636363636,26,"SouthernCalifornia_Trojans","Trojans"
+"Southern California","SouthernCalifornia",0.636363636363636,"Team1","SouthernCalifornia_Trojans","Trojans"
 "Southern Illinois","SouthernIllinois",0.555555555555556,NA,NA,NA
-"Southern Methodist","SouthernMethodist",0.5,45,"SouthernMethodist_Mustangs","Mustangs"
+"Southern Methodist","SouthernMethodist",0.5,NA,NA,NA
 "St. John's, New York","St.John's,NewYork",1.07142857142857,NA,NA,NA
 "St. Joseph's, Pennsylvania","St.Joseph's,Pennsylvania",1,NA,NA,NA
 "St. Louis","St.Louis",0.714285714285714,NA,NA,NA
@@ -152,36 +152,36 @@
 "Stephen F. Austin","StephenF.Austin",0.5,NA,NA,NA
 "Syracuse","Syracuse",2.08,NA,NA,NA
 "Temple","Temple",1.04347826086957,NA,NA,NA
-"Tennessee","Tennessee",1.16666666666667,9,"Tennessee_Volunteers","Volunteers"
-"Texas","Texas",1.16,15,"Texas_Longhorns","Longhorns"
+"Tennessee","Tennessee",1.16666666666667,"Team1","Tennessee_Volunteers","Volunteers"
+"Texas","Texas",1.16,"Team1","Texas_Longhorns","Longhorns"
 "Texas A&M","TexasA&M",1,NA,NA,NA
 "Texas Christian","TexasChristian",0.5,NA,NA,NA
-"Texas Tech","TexasTech",0.555555555555556,7,"TexasTech_RedRaiders","RedRaiders"
+"Texas Tech","TexasTech",0.555555555555556,"Team1","TexasTech_RedRaiders","RedRaiders"
 "Texas-El Paso","Texas-ElPaso",0.5,NA,NA,NA
 "Texas-San Antonio","Texas-SanAntonio",0.25,NA,NA,NA
 "Tulane","Tulane",1,NA,NA,NA
 "Tulsa","Tulsa",0.846153846153846,NA,NA,NA
-"UAB","UAB",0.545454545454545,NA,NA,NA
-"UCLA","UCLA",1.91304347826087,13,"UCLA_Bruins","Bruins"
+"UAB","UAB",0.545454545454545,"Team2","UAB_Blazers","Blazers"
+"UCLA","UCLA",1.91304347826087,"Team1","UCLA_Bruins","Bruins"
 "Utah","Utah",1.375,NA,NA,NA
 "Utah State","UtahState",0.1,NA,NA,NA
 "Valparaiso","Valparaiso",0.222222222222222,NA,NA,NA
 "Vanderbilt","Vanderbilt",0.75,NA,NA,NA
-"Vermont","Vermont",0.4,NA,NA,NA
-"Villanova","Villanova",1.83333333333333,8,"Villanova_Wildcats","Wildcats"
+"Vermont","Vermont",0.4,"Team2","Vermont_Catamounts","Catamounts"
+"Villanova","Villanova",1.83333333333333,"Team1","Villanova_Wildcats","Wildcats"
 "Virginia","Virginia",1.13333333333333,NA,NA,NA
 "Virginia Commonwealth","VirginiaCommonwealth",0.909090909090909,NA,NA,NA
-"Virginia Tech","VirginiaTech",0.5,40,"VirginiaTech_Hokies","Hokies"
-"Wake Forest","WakeForest",1.14285714285714,43,"WakeForest_DemonDeacons","DemonDeacons"
+"Virginia Tech","VirginiaTech",0.5,"Team2","VirginiaTech_Hokies","Hokies"
+"Wake Forest","WakeForest",1.14285714285714,NA,NA,NA
 "Washington","Washington",1,NA,NA,NA
-"Washington State","WashingtonState",1,50,"WashingtonState_Cougars","Cougars"
+"Washington State","WashingtonState",1,NA,NA,NA
 "Weber State","WeberState",0.333333333333333,NA,NA,NA
 "West Virginia","WestVirginia",1.21428571428571,NA,NA,NA
 "Western Kentucky","WesternKentucky",0.75,NA,NA,NA
 "Western Michigan","WesternMichigan",0.333333333333333,NA,NA,NA
 "Wichita State","WichitaState",1.22222222222222,NA,NA,NA
 "Winthrop","Winthrop",0.111111111111111,NA,NA,NA
-"Wisconsin","Wisconsin",1.6,21,"Wisconsin_Badgers","Badgers"
-"Wyoming","Wyoming",0.75,39,"Wyoming_Cowboys","Cowboys"
+"Wisconsin","Wisconsin",1.6,"Team1","Wisconsin_Badgers","Badgers"
+"Wyoming","Wyoming",0.75,"Team1","Wyoming_Cowboys","Cowboys"
 "Xavier, Ohio","Xavier,Ohio",1,NA,NA,NA
-"Yale","Yale",1,NA,NA,NA
+"Yale","Yale",1,"Team2","Yale_Bulldogs","Bulldogs"
