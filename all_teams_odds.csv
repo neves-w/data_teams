@@ -1,187 +1,135 @@
-"Winner","University","odds"
-"Alabama","Alabama",1.2
-"Albany","Albany",0.2
-"Arizona","Arizona",1.79310344827586
-"Arizona State","ArizonaState",1
-"Arkansas","Arkansas",1.70588235294118
-"Arkansas-Little Rock","Arkansas-LittleRock",0.4
-"Arkansas-Pine Bluff","Arkansas-PineBluff",1
-"Auburn","Auburn",1.71428571428571
-"Austin Peay","AustinPeay",0.2
-"Ball State","BallState",0.5
-"Baylor","Baylor",1.14285714285714
-"Boston College","BostonCollege",1.18181818181818
-"Bradley","Bradley",0.75
-"Brigham Young","BrighamYoung",0.388888888888889
-"Bucknell","Bucknell",0.333333333333333
-"Butler","Butler",1.46153846153846
-"Cal Poly","CalPoly",1
-"California","California",0.642857142857143
-"California-Santa Barbara","California-SantaBarbara",0.2
-"Central Michigan","CentralMichigan",0.5
-"Charleston, South Carolina","Charleston,SouthCarolina",0.25
-"Charlotte","Charlotte",0.4
-"Chattanooga","Chattanooga",0.25
-"Cincinnati","Cincinnati",1.2
-"Clemson","Clemson",0.6
-"Cleveland State","ClevelandState",1.5
-"Colorado","Colorado",0.333333333333333
-"Colorado State","ColoradoState",0.4
-"Connecticut","Connecticut",3.4375
-"Coppin State","CoppinState",0.25
-"Cornell","Cornell",0.5
-"Creighton","Creighton",0.5
-"Davidson","Davidson",0.333333333333333
-"Dayton","Dayton",0.777777777777778
-"DePaul","DePaul",0.777777777777778
-"Detroit","Detroit",0.666666666666667
-"Drexel","Drexel",0.25
-"Duke","Duke",3.46153846153846
-"East Tennessee State","EastTennesseeState",0.125
-"Eastern Michigan","EasternMichigan",0.75
-"Evansville","Evansville",0.25
-"Florida","Florida",2.47058823529412
-"Florida A&M","FloridaA&M",0.333333333333333
-"Florida Gulf Coast","FloridaGulfCoast",1.5
-"Florida State","FloridaState",1
-"Fresno State","FresnoState",0.333333333333333
-"George Mason","GeorgeMason",0.833333333333333
-"George Washington","GeorgeWashington",0.444444444444444
-"Georgetown","Georgetown",1.57142857142857
-"Georgia","Georgia",0.363636363636364
-"Georgia State","GeorgiaState",0.666666666666667
-"Georgia Tech","GeorgiaTech",1.46666666666667
-"Gonzaga","Gonzaga",1.26315789473684
-"Green Bay","GreenBay",0.2
-"Hampton","Hampton",0.333333333333333
-"Harvard","Harvard",0.5
-"Hawaii","Hawaii",0.25
-"Holy Cross","HolyCross",0.166666666666667
-"Illinois","Illinois",1.27272727272727
-"Illinois State","IllinoisState",0.5
-"Indiana","Indiana",1.45833333333333
-"Indiana State","IndianaState",0.333333333333333
-"Iowa","Iowa",0.941176470588235
-"Iowa State","IowaState",1
-"James Madison","JamesMadison",0.5
-"Kansas","Kansas",2.6551724137931
-"Kansas State","KansasState",0.833333333333333
-"Kent State","KentState",0.8
-"Kentucky","Kentucky",3.125
-"La Salle","LaSalle",0.8
-"Lehigh","Lehigh",0.2
-"Louisiana State","LouisianaState",1.06666666666667
-"Louisiana Tech","LouisianaTech",0.75
-"Louisiana-Lafayette","Louisiana-Lafayette",0.166666666666667
-"Louisville","Louisville",2.18181818181818
-"Loyola Marymount","LoyolaMarymount",1.33333333333333
-"Loyola, Illinois","Loyola,Illinois",2
-"Manhattan","Manhattan",0.333333333333333
-"Marquette","Marquette",1.14285714285714
-"Maryland","Maryland",1.77777777777778
-"Massachusetts","Massachusetts",1.375
-"Memphis","Memphis",1.5
-"Mercer","Mercer",0.5
-"Miami, Florida","Miami,Florida",1.14285714285714
-"Miami, Ohio","Miami,Ohio",0.428571428571429
-"Michigan","Michigan",2.17647058823529
-"Michigan State","MichiganState",2.12
-"Middle Tennessee State","MiddleTennesseeState",0.4
-"Milwaukee","Milwaukee",0.75
-"Minnesota","Minnesota",1.1
-"Mississippi","Mississippi",0.714285714285714
-"Mississippi State","MississippiState",1.11111111111111
-"Missouri","Missouri",0.842105263157895
-"Missouri State","MissouriState",0.5
-"Monmouth, New Jersey","Monmouth,NewJersey",0.25
-"Montana","Montana",0.111111111111111
-"Morehead State","MoreheadState",1
-"Mt. St. Mary's, Maryland","Mt.St.Mary's,Maryland",0.25
-"Murray State","MurrayState",0.230769230769231
-"Navy","Navy",0.666666666666667
-"Nevada","Nevada",0.8
-"Nevada-Las Vegas","Nevada-LasVegas",1.71428571428571
-"New Mexico","NewMexico",0.5
-"New Mexico State","NewMexicoState",0.25
-"New Orleans","NewOrleans",0.25
-"Niagara","Niagara",0.5
-"Norfolk State","NorfolkState",1
-"North Carolina","NorthCarolina",3.15384615384615
-"North Carolina A&T","NorthCarolinaA&T",0.142857142857143
-"North Carolina State","NorthCarolinaState",1.26666666666667
-"North Carolina-Asheville","NorthCarolina-Asheville",0.5
-"North Carolina-Wilmington","NorthCarolina-Wilmington",0.2
-"North Dakota State","NorthDakotaState",0.333333333333333
-"Northern Iowa","NorthernIowa",0.625
-"Northwestern State","NorthwesternState",0.666666666666667
-"Notre Dame","NotreDame",0.941176470588235
-"Oakland","Oakland",0.333333333333333
-"Ohio","Ohio",0.6
-"Ohio State","OhioState",1.77777777777778
-"Oklahoma","Oklahoma",1.45833333333333
-"Oklahoma State","OklahomaState",1.27777777777778
-"Old Dominion","OldDominion",0.333333333333333
-"Oregon","Oregon",1.3
-"Pacific, California","Pacific,California",0.4
-"Pennsylvania","Pennsylvania",0.0833333333333333
-"Pennsylvania State","PennsylvaniaState",0.75
-"Pepperdine","Pepperdine",0.142857142857143
-"Pittsburgh","Pittsburgh",1
-"Princeton","Princeton",0.2
-"Providence","Providence",0.8
-"Purdue","Purdue",1.1304347826087
-"Rhode Island","RhodeIsland",1.2
-"Richmond","Richmond",0.75
-"Robert Morris","RobertMorris",0.166666666666667
-"San Diego","SanDiego",0.333333333333333
-"San Diego State","SanDiegoState",0.666666666666667
-"Santa Clara","SantaClara",0.5
-"Seton Hall","SetonHall",1.5
-"Siena","Siena",0.666666666666667
-"South Alabama","SouthAlabama",0.166666666666667
-"South Florida","SouthFlorida",0.666666666666667
-"Southern","Southern",0.125
-"Southern California","SouthernCalifornia",0.636363636363636
-"Southern Illinois","SouthernIllinois",0.555555555555556
-"Southern Methodist","SouthernMethodist",0.5
-"St. John's, New York","St.John's,NewYork",1.07142857142857
-"St. Joseph's, Pennsylvania","St.Joseph's,Pennsylvania",1
-"St. Louis","St.Louis",0.714285714285714
-"St. Mary's, California","St.Mary's,California",0.428571428571429
-"Stanford","Stanford",1.25
-"Stephen F. Austin","StephenF.Austin",0.5
-"Syracuse","Syracuse",2.08
-"Temple","Temple",1.04347826086957
-"Tennessee","Tennessee",1.16666666666667
-"Texas","Texas",1.16
-"Texas A&M","TexasA&M",1
-"Texas Christian","TexasChristian",0.5
-"Texas Tech","TexasTech",0.555555555555556
-"Texas-El Paso","Texas-ElPaso",0.5
-"Texas-San Antonio","Texas-SanAntonio",0.25
-"Tulane","Tulane",1
-"Tulsa","Tulsa",0.846153846153846
-"UAB","UAB",0.545454545454545
-"UCLA","UCLA",1.91304347826087
-"Utah","Utah",1.375
-"Utah State","UtahState",0.1
-"Valparaiso","Valparaiso",0.222222222222222
-"Vanderbilt","Vanderbilt",0.75
-"Vermont","Vermont",0.4
-"Villanova","Villanova",1.83333333333333
-"Virginia","Virginia",1.13333333333333
-"Virginia Commonwealth","VirginiaCommonwealth",0.909090909090909
-"Virginia Tech","VirginiaTech",0.5
-"Wake Forest","WakeForest",1.14285714285714
-"Washington","Washington",1
-"Washington State","WashingtonState",1
-"Weber State","WeberState",0.333333333333333
-"West Virginia","WestVirginia",1.21428571428571
-"Western Kentucky","WesternKentucky",0.75
-"Western Michigan","WesternMichigan",0.333333333333333
-"Wichita State","WichitaState",1.22222222222222
-"Winthrop","Winthrop",0.111111111111111
-"Wisconsin","Wisconsin",1.6
-"Wyoming","Wyoming",0.75
-"Xavier, Ohio","Xavier,Ohio",1
-"Yale","Yale",1
+"name","Team","University","Mascot","Winner","odds"
+"Team1","Rutgers_ScarletKnights","Rutgers","ScarletKnights",NA,1
+"Team2","NotreDame_FightingIrish","NotreDame","FightingIrish","Notre Dame",0.941176470588235
+"Team1","Wyoming_Cowboys","Wyoming","Cowboys","Wyoming",0.75
+"Team2","Indiana_Hoosiers","Indiana","Hoosiers","Indiana",1.45833333333333
+"Team1","WrightState_Raiders","WrightState","Raiders",NA,1
+"Team2","Bryant_Bulldogs","Bryant","Bulldogs",NA,1
+"Team1","TexasSouthern_Tigers","TexasSouthern","Tigers",NA,1
+"Team2","TexasA&MCC_Islanders","TexasA&MCC","Islanders",NA,1
+"Team1","Gonzaga_Bulldogs","Gonzaga","Bulldogs","Gonzaga",1.26315789473684
+"Team2","GeorgiaState_Panthers","GeorgiaState","Panthers","Georgia State",0.666666666666667
+"Team1","BoiseState_Broncos","BoiseState","Broncos",NA,1
+"Team2","Memphis_Tigers","Memphis","Tigers","Memphis",1.5
+"Team1","Connecticut_Huskies","Connecticut","Huskies","Connecticut",3.4375
+"Team2","NewMexicoState_Aggies","NewMexicoState","Aggies","New Mexico State",0.25
+"Team1","Arkansas_Razorbacks","Arkansas","Razorbacks","Arkansas",1.70588235294118
+"Team2","Vermont_Catamounts","Vermont","Catamounts","Vermont",0.4
+"Team1","Alabama_CrimsonTide","Alabama","CrimsonTide","Alabama",1.2
+"Team2","Game1","Game1","",NA,1
+"Team1","TexasTech_RedRaiders","TexasTech","RedRaiders","Texas Tech",0.555555555555556
+"Team2","MontanaState_Bobcats","MontanaState","Bobcats",NA,1
+"Team1","MichiganState_Spartans","MichiganState","Spartans","Michigan State",2.12
+"Team2","Davidson_Wildcats","Davidson","Wildcats","Davidson",0.333333333333333
+"Team1","Duke_BlueDevils","Duke","BlueDevils","Duke",3.46153846153846
+"Team2","CalStateFullerton_Titans","CalStateFullerton","Titans",NA,1
+"Team1","Baylor_Bears","Baylor","Bears","Baylor",1.14285714285714
+"Team2","NorfolkState_Spartans","NorfolkState","Spartans","Norfolk State",1
+"Team1","NorthCarolina_TarHeels","NorthCarolina","TarHeels","North Carolina",3.15384615384615
+"Team2","Marquette_GoldenEagles","Marquette","GoldenEagles","Marquette",1.14285714285714
+"Team1","SaintMarys_Gaels","SaintMarys","Gaels",NA,1
+"Team2","Game2","Game2","",NA,1
+"Team1","UCLA_Bruins","UCLA","Bruins","UCLA",1.91304347826087
+"Team2","Akron_Zips","Akron","Zips",NA,1
+"Team1","Texas_Longhorns","Texas","Longhorns","Texas",1.16
+"Team2","VirginiaTech_Hokies","VirginiaTech","Hokies","Virginia Tech",0.5
+"Team1","Purdue_Boilermakers","Purdue","Boilermakers","Purdue",1.1304347826087
+"Team2","Yale_Bulldogs","Yale","Bulldogs","Yale",1
+"Team1","MurrayState_Racers","MurrayState","Racers","Murray State",0.230769230769231
+"Team2","SanFrancisco_Dons","SanFrancisco","Dons",NA,1
+"Team1","Kentucky_Wildcats","Kentucky","Wildcats","Kentucky",3.125
+"Team2","SaintPeters_Peacocks","SaintPeters","Peacocks",NA,1
+"Team1","Arizona_Wildcats","Arizona","Wildcats","Arizona",1.79310344827586
+"Team2","Game3","Game3","",NA,1
+"Team1","SetonHall_Pirates","SetonHall","Pirates","Seton Hall",1.5
+"Team2","TCU_HornedFrogs","TCU","HornedFrogs",NA,1
+"Team1","Houston_Cougars","Houston","Cougars",NA,1
+"Team2","UAB_Blazers","UAB","Blazers","UAB",0.545454545454545
+"Team1","Illinois_FightingIllini","Illinois","FightingIllini","Illinois",1.27272727272727
+"Team2","Chattanooga_Mocs","Chattanooga","Mocs","Chattanooga",0.25
+"Team1","ColoradoState_Rams","ColoradoState","Rams","Colorado State",0.4
+"Team2","Michigan_Wolverines","Michigan","Wolverines","Michigan",2.17647058823529
+"Team1","Tennessee_Volunteers","Tennessee","Volunteers","Tennessee",1.16666666666667
+"Team2","Longwood_Lancers","Longwood","Lancers",NA,1
+"Team1","OhioState_Buckeyes","OhioState","Buckeyes","Ohio State",1.77777777777778
+"Team2","LoyolaChicago_Ramblers","LoyolaChicago","Ramblers",NA,1
+"Team1","Villanova_Wildcats","Villanova","Wildcats","Villanova",1.83333333333333
+"Team2","Delaware_FightinBlueHens","Delaware","FightinBlueHens",NA,1
+"Team1","Kansas_Jayhawks","Kansas","Jayhawks","Kansas",2.6551724137931
+"Team2","Game4","Game4","",NA,1
+"Team1","SanDiegoState_Aztecs","SanDiegoState","Aztecs","San Diego State",0.666666666666667
+"Team2","Creighton_Bluejays","Creighton","Bluejays","Creighton",0.5
+"Team1","Iowa_Hawkeyes","Iowa","Hawkeyes","Iowa",0.941176470588235
+"Team2","Richmond_Spiders","Richmond","Spiders","Richmond",0.75
+"Team1","Providence_Friars","Providence","Friars","Providence",0.8
+"Team2","SDakotaState_Jackrabbits","SDakotaState","Jackrabbits",NA,1
+"Team1","LouisianaState_Tigers","LouisianaState","Tigers","Louisiana State",1.06666666666667
+"Team2","IowaState_Cyclones","IowaState","Cyclones","Iowa State",1
+"Team1","Wisconsin_Badgers","Wisconsin","Badgers","Wisconsin",1.6
+"Team2","Colgate_Raiders","Colgate","Raiders",NA,1
+"Team1","SouthernCalifornia_Trojans","SouthernCalifornia","Trojans","Southern California",0.636363636363636
+"Team2","Miami_Hurricanes","Miami","Hurricanes",NA,1
+"Team1","Auburn_Tigers","Auburn","Tigers","Auburn",1.71428571428571
+"Team2","JacksonState_Tigers","JacksonState","Tigers",NA,1
+"Team1","Game5","Game5","",NA,1
+"Team2","Game6","Game6","",NA,1
+"Team1","Game7","Game7","",NA,1
+"Team2","Game8","Game8","",NA,1
+"Team1","Game9","Game9","",NA,1
+"Team2","Game10","Game10","",NA,1
+"Team1","Game11","Game11","",NA,1
+"Team2","Game12","Game12","",NA,1
+"Team1","Game13","Game13","",NA,1
+"Team2","Game14","Game14","",NA,1
+"Team1","Game15","Game15","",NA,1
+"Team2","Game16","Game16","",NA,1
+"Team1","Game17","Game17","",NA,1
+"Team2","Game18","Game18","",NA,1
+"Team1","Game19","Game19","",NA,1
+"Team2","Game20","Game20","",NA,1
+"Team1","Game21","Game21","",NA,1
+"Team2","Game22","Game22","",NA,1
+"Team1","Game23","Game23","",NA,1
+"Team2","Game24","Game24","",NA,1
+"Team1","Game25","Game25","",NA,1
+"Team2","Game26","Game26","",NA,1
+"Team1","Game27","Game27","",NA,1
+"Team2","Game28","Game28","",NA,1
+"Team1","Game29","Game29","",NA,1
+"Team2","Game30","Game30","",NA,1
+"Team1","Game31","Game31","",NA,1
+"Team2","Game32","Game32","",NA,1
+"Team1","Game33","Game33","",NA,1
+"Team2","Game34","Game34","",NA,1
+"Team1","Game35","Game35","",NA,1
+"Team2","Game36","Game36","",NA,1
+"Team1","Game37","Game37","",NA,1
+"Team2","Game38","Game38","",NA,1
+"Team1","Game39","Game39","",NA,1
+"Team2","Game40","Game40","",NA,1
+"Team1","Game41","Game41","",NA,1
+"Team2","Game42","Game42","",NA,1
+"Team1","Game43","Game43","",NA,1
+"Team2","Game44","Game44","",NA,1
+"Team1","Game45","Game45","",NA,1
+"Team2","Game46","Game46","",NA,1
+"Team1","Game47","Game47","",NA,1
+"Team2","Game48","Game48","",NA,1
+"Team1","Game49","Game49","",NA,1
+"Team2","Game50","Game50","",NA,1
+"Team1","Game51","Game51","",NA,1
+"Team2","Game52","Game52","",NA,1
+"Team1","Game53","Game53","",NA,1
+"Team2","Game54","Game54","",NA,1
+"Team1","Game55","Game55","",NA,1
+"Team2","Game56","Game56","",NA,1
+"Team1","Game57","Game57","",NA,1
+"Team2","Game58","Game58","",NA,1
+"Team1","Game59","Game59","",NA,1
+"Team2","Game60","Game60","",NA,1
+"Team1","Game61","Game61","",NA,1
+"Team2","Game62","Game62","",NA,1
+"Team1","Game63","Game63","",NA,1
+"Team2","Game64","Game64","",NA,1
+"Team1","Game65","Game65","",NA,1
+"Team2","Game66","Game66","",NA,1
